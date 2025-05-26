@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { ListGroup, Button, Row, Col } from 'react-bootstrap';
+import { ListGroup, Button } from 'react-bootstrap';
 import { TodoContext } from '../context/TodoContext';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { FaTrash } from 'react-icons/fa';
