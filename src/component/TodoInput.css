@@ -1,0 +1,13 @@
+.custom-btn {
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect */
+.custom-btn:hover {
+  background-color: #23c1d6 !important; /* Slightly different blue */
+}
+
+/* Active click effect */
+.custom-btn.clicked {
+  background-color: #198754 !important; /* Greenish effect */
+}
